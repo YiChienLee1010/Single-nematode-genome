@@ -52,6 +52,39 @@ Here, we provide all the assembly, annotation, CDSs, and proteome files as follo
 
 <br><br>
 
+
+|---
+|Species|Strain|Assembly|Annotation|CDSs|Proteome
+|:-:|:-:|:-:|:-:|:-:|:-:
+|*S.c.*|S288C|[GENOME][49]|[GFF][50]|[CDS][51]|[PEP][52]
+|:-:|:-:|:-:|:-:|:-:|:-:
+|*S.c.*|DBVPG6044|[GENOME][53]|[GFF][54]|[CDS][55]|[PEP][56]
+|:-:|:-:|:-:|:-:|:-:|:-:
+|*S.c.*|DBVPG6765|[GENOME][57]|[GFF][58]|[CDS][59]|[PEP][60]
+|:-:|:-:|:-:|:-:|:-:|:-:
+|*S.c.*|SK1|[GENOME][61]|[GFF][62]|[CDS][63]|[PEP][64]
+|:-:|:-:|:-:|:-:|:-:|:-:
+|*S.c.*|Y12|[GENOME][65]|[GFF][66]|[CDS][67]|[PEP][68]
+|:-:|:-:|:-:|:-:|:-:|:-:
+|*S.c.*|YPS128|[GENOME][69]|[GFF][70]|[CDS][71]|[PEP][72]
+|:-:|:-:|:-:|:-:|:-:|:-:
+|*S.c.*|UWOPS03-461.4|[GENOME][73]|[GFF][74]|[CDS][75]|[PEP][76]
+|:-:|:-:|:-:|:-:|:-:|:-:
+|*S.p.*|CBS432|[GENOME][77]|[GFF][78]|[CDS][79]|[PEP][80]
+|:-:|:-:|:-:|:-:|:-:|:-:
+|*S.p.*|N44|[GENOME][81]|[GFF][82]|[CDS][83]|[PEP][84]
+|:-:|:-:|:-:|:-:|:-:|:-:
+|*S.p.*|YPS138|[GENOME][85]|[GFF][86]|[CDS][87]|[PEP][88]
+|:-:|:-:|:-:|:-:|:-:|:-:
+|*S.p.*|UFRJ50816|[GENOME][89]|[GFF][90]|[CDS][91]|[PEP][92]
+|:-:|:-:|:-:|:-:|:-:|:-:
+|*S.p.*|UWOPS91-917.1|[GENOME][93]|[GFF][94]|[CDS][95]|[PEP][96]
+|---
+
+
+
+<br><br>
+
 # Raw Reads Accession
 The Oxford nanopore sequcing and Illumina seqqencing reads of genome and Illumina seqqencing reads of transcriptome has been deposed in the NCBI under bioproject [PRJNA953805](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA953805). 
 
