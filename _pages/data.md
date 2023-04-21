@@ -53,4 +53,4 @@ Here, we provide all the assembly, annotation, CDSs, and proteome files as follo
 <br><br>
 
 
-[2]: {{ site.url }}{{ site.baseurl }}/Data/Annotation Gff/Mesodorylaimus sp.gff
+[2]: https://github.com/YiChienLee1010/Single-nematode-genome/raw/gh-pages/Data/Annotation%20GFF/Enoplolaimus_lenunculus.gff
