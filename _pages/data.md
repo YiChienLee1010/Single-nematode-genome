@@ -23,31 +23,31 @@ Here, we provide all the assembly, annotation, CDSs, and proteome files as follo
 # *de novo* genome assembly
 
 |---
-|Species|class|Assembly|Annotation|CDSs|Proteome
-|:-:|:-:|:-:|:-:|:-:|:-:
-|*Mesodorylaimus* sp.|Dorylaimida|[GENOME][1]|[GFF][2]|[CDS][3]|[PEP][4]
-|:-:|:-:|:-:|:-:|:-:|:-:
-|*Mesodorylaimus* sp.|Enoplida|[GENOME][5]|[GFF][6]|[CDS][7]|[PEP][8]
-|:-:|:-:|:-:|:-:|:-:|:-:
-|*Trissonchulus* sp.|Enoplida|[GENOME][9]|[GFF][10]|[CDS][11]|[PEP][12]
-|:-:|:-:|:-:|:-:|:-:|:-:
-|*Trileptium ribeirensis*|Enoplida|[GENOME][13]|[GFF][14]|[CDS][15]|[PEP][16]
-|:-:|:-:|:-:|:-:|:-:|:-:
-|*Theristus* sp.|Chromadorea|[GENOME][17]|[GFF][18]|[CDS][19]|[PEP][20]
-|:-:|:-:|:-:|:-:|:-:|:-:
-|*Sabatieria punctata*|Chromadorea|[GENOME][21]|[GFF][22]|[CDS][23]|[PEP][24]
-|:-:|:-:|:-:|:-:|:-:|:-:
-|*Ptycholaimellus* sp.|Chromadorea|[GENOME][25]|[GFF][26]|[CDS][27]|[PEP][28]
-|:-:|:-:|:-:|:-:|:-:|:-:
-|*Linhomoeus* sp.|Chromadorea|[GENOME][29]|[GFF][30]|[CDS][31]|[PEP][32]
-|:-:|:-:|:-:|:-:|:-:|:-:
-|*Paralinhomoeus* sp.|Chromadorea|[GENOME][33]|[GFF][34]|[CDS][35]|[PEP][36]
-|:-:|:-:|:-:|:-:|:-:|:-:
-|*Microlaimidae* sp.|Chromadorea|[GENOME][37]|[GFF][38]|[CDS][39]|[PEP][40]
-|:-:|:-:|:-:|:-:|:-:|:-:
-|*Epsilonema* sp.|Chromadorea|[GENOME][41]|[GFF][42]|[CDS][43]|[PEP][44]
-|:-:|:-:|:-:|:-:|:-:|:-:
-|*Rhynchonema* sp.|Chromadorea |[GENOME][45]|[GFF][46]|[CDS][47]|[PEP][48]
+|Species|Class|Assembly|Annotation|CDSs|Proteome|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|*Mesodorylaimus* sp.|Dorylaimida|[GENOME][1]|[GFF][2]|[CDS][3]|[PEP][4]|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|*Mesodorylaimus* sp.|Enoplida|[GENOME][5]|[GFF][6]|[CDS][7]|[PEP][8]|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|*Trissonchulus* sp.|Enoplida|[GENOME][9]|[GFF][10]|[CDS][11]|[PEP][12]|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|*Trileptium ribeirensis*|Enoplida|[GENOME][13]|[GFF][14]|[CDS][15]|[PEP][16]|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|*Theristus* sp.|Chromadorea|[GENOME][17]|[GFF][18]|[CDS][19]|[PEP][20]|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|*Sabatieria punctata*|Chromadorea|[GENOME][21]|[GFF][22]|[CDS][23]|[PEP][24]|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|*Ptycholaimellus* sp.|Chromadorea|[GENOME][25]|[GFF][26]|[CDS][27]|[PEP][28]|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|*Linhomoeus* sp.|Chromadorea|[GENOME][29]|[GFF][30]|[CDS][31]|[PEP][32]|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|*Paralinhomoeus* sp.|Chromadorea|[GENOME][33]|[GFF][34]|[CDS][35]|[PEP][36]|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|*Microlaimidae* sp.|Chromadorea|[GENOME][37]|[GFF][38]|[CDS][39]|[PEP][40]|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|*Epsilonema* sp.|Chromadorea|[GENOME][41]|[GFF][42]|[CDS][43]|[PEP][44]|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|*Rhynchonema* sp.|Chromadorea |[GENOME][45]|[GFF][46]|[CDS][47]|[PEP][48]|
 |---
 
 <br><br>
