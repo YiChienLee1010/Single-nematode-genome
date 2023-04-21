@@ -55,4 +55,4 @@ Here, we provide all the assembly, annotation, CDSs, and proteome files as follo
 The Oxford nanopore sequcing and Illumina seqqencing reads of genome and Illumina seqqencing reads of transcriptome has been deposed in the NCBI under bioproject [PRJNA953805](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA953805). 
 
 
-[2]: https://github.com/YiChienLee1010/Single-nematode-genome/raw/gh-pages/Data/Annotation%20GFF/Enoplolaimus_lenunculus.gff
+[2]: {{ site.url }}/Data/Annotation_gff/Enoplolaimus_lenunculus.gff
