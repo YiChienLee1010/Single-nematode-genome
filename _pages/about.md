@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Single Worm Nematode Genome Project
 permalink: /
 
 news: false  # includes a list of news items
