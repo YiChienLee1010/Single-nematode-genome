@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Contact
+title: Authors
 nav: true
 nav_order: 5
 ---
