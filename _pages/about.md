@@ -1,6 +1,6 @@
 ---
-layout: About
-title: about
+layout: page
+title: About
 permalink: /
 
 news: false  # includes a list of news items
