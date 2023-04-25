@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: //
+permalink: /data/
 title: Data
 nav: true
 nav_order: 3
