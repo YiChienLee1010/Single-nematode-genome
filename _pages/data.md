@@ -68,3 +68,30 @@ The Oxford nanopore sequcing and Illumina seqqencing reads of genome and Illumin
 [46]: {{ site.url }}{{site.baseurl}}/Data/Annotation_Gff/Epsilonema_sp.gff
 [50]: {{ site.url }}{{site.baseurl}}/Data/Annotation_Gff/Rhynchonemsa_sp.gff
 
+[4]: {{ site.url }}{{site.baseurl}}/Data/Proteome/Enoplolaimus_lenunculus.aa.fa.gz
+[8]: {{ site.url }}{{site.baseurl}}/Data/Proteome/Epsilonema_sp.aa.fa.gz
+[12]: {{ site.url }}{{site.baseurl}}/Data/Proteome/Linhomoeus_sp.aa.fa.gz
+[16]: {{ site.url }}{{site.baseurl}}/Data/Proteome/Mesodorylaimu_sp.aa.fa.gz
+[20]: {{ site.url }}{{site.baseurl}}/Data/Proteome/Microlaimidae_sp.aa.fa.gz
+[24]: {{ site.url }}{{site.baseurl}}/Data/Proteome/Paralinhomoeus_sp.aa.fa.gz
+[28]: {{ site.url }}{{site.baseurl}}/Data/Proteome/Ptycholaimellus_sp.aa.fa.gz
+[32]: {{ site.url }}{{site.baseurl}}/Data/Proteome/Rhynchonemsa_sp.aa.fasta.gz
+[36]: {{ site.url }}{{site.baseurl}}/Data/Proteome/Sabatieria_punctata.aa.fa.gz
+[40]: {{ site.url }}{{site.baseurl}}/Data/Proteome/Theristus_sp.aa.fa.gz
+[44]: {{ site.url }}{{site.baseurl}}/Data/Proteome/Trileptium_ribeirensis.aa.fa.gz
+[48]: {{ site.url }}{{site.baseurl}}/Data/Proteome/Trissonchulus_latispiculum.aa.fa.gz
+[52]: {{ site.url }}{{site.baseurl}}/Data/Proteome/Trissonchulus_sp.filter.aa.fa.gz
+
+[3]: {{ site.url }}{{site.baseurl}}/Data/CDS/Enoplolaimus_lenunculus.nuc.fa.gz
+[7]: {{ site.url }}{{site.baseurl}}/Data/CDS/Epsilonema_sp.nuc.fa.gz
+[11]: {{ site.url }}{{site.baseurl}}/Data/CDS/Linhomoeus_sp.nuc.fa.gz
+[15]: {{ site.url }}{{site.baseurl}}/Data/CDS/Mesodorylaimu_sp.nuc.fa.gz
+[19]: {{ site.url }}{{site.baseurl}}/Data/CDS/Microlaimidae_sp.nuc.fa.gz
+[23]: {{ site.url }}{{site.baseurl}}/Data/CDS/Paralinhomoeus_sp.nuc.fa.gz
+[27]: {{ site.url }}{{site.baseurl}}/Data/CDS/Ptycholaimellus_sp.nuc.fa.gz
+[31]: {{ site.url }}{{site.baseurl}}/Data/CDS/Rhynchonemsa_sp.nuc.fasta.gz
+[35]: {{ site.url }}{{site.baseurl}}/Data/CDS/Sabatieria_punctata.nuc.fa.gz
+[39]: {{ site.url }}{{site.baseurl}}/Data/CDS/Theristus_sp.nuc.fa.gz
+[43]: {{ site.url }}{{site.baseurl}}/Data/CDS/Trileptium_ribeirensis.nuc.fa.gz
+[47]: {{ site.url }}{{site.baseurl}}/Data/CDS/Trissonchulus_latispiculum.nuc.fa.gz
+[51]: {{ site.url }}{{site.baseurl}}/Data/CDS/Trissonchulus_sp.filter.nuc.fa.gz
