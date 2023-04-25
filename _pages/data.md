@@ -24,27 +24,29 @@ Here, we provide all the assembly, annotation, CDSs, and proteome files as follo
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |*Mesodorylaimus* sp.|Dorylaimida|[GENOME][1]|[GFF][2]|[CDS][3]|[PEP][4]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Mesodorylaimus* sp.|Enoplida|[GENOME][5]|[GFF][6]|[CDS][7]|[PEP][8]|
+|*Enoplolaimus lenunculus*|Enoplida|[GENOME][5]|[GFF][6]|[CDS][7]|[PEP][8]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |*Trissonchulus* sp.|Enoplida|[GENOME][9]|[GFF][10]|[CDS][11]|[PEP][12]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |*Trileptium ribeirensis*|Enoplida|[GENOME][13]|[GFF][14]|[CDS][15]|[PEP][16]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Theristus* sp.|Chromadorea|[GENOME][17]|[GFF][18]|[CDS][19]|[PEP][20]|
+|*Trissonchulus latispiculum*|Enoplida|[GENOME][17]|[GFF][18]|[CDS][19]|[PEP][20]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Sabatieria punctata*|Chromadorea|[GENOME][21]|[GFF][22]|[CDS][23]|[PEP][24]|
+|*Theristus* sp.|Chromadorea|[GENOME][21]|[GFF][22]|[CDS][23]|[PEP][24]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Ptycholaimellus* sp.|Chromadorea|[GENOME][25]|[GFF][26]|[CDS][27]|[PEP][28]|
+|*Sabatieria punctata*|Chromadorea|[GENOME][25]|[GFF][26]|[CDS][27]|[PEP][28]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Linhomoeus* sp.|Chromadorea|[GENOME][29]|[GFF][30]|[CDS][31]|[PEP][32]|
+|*Ptycholaimellus* sp.|Chromadorea|[GENOME][29]|[GFF][30]|[CDS][31]|[PEP][32]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Paralinhomoeus* sp.|Chromadorea|[GENOME][33]|[GFF][34]|[CDS][35]|[PEP][36]|
+|*Linhomoeus* sp.|Chromadorea|[GENOME][33]|[GFF][34]|[CDS][35]|[PEP][36]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Microlaimidae* sp.|Chromadorea|[GENOME][37]|[GFF][38]|[CDS][39]|[PEP][40]|
+|*Paralinhomoeus* sp.|Chromadorea|[GENOME][37]|[GFF][38]|[CDS][39]|[PEP][40]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Epsilonema* sp.|Chromadorea|[GENOME][41]|[GFF][42]|[CDS][43]|[PEP][44]|
+|*Microlaimidae* sp.|Chromadorea|[GENOME][41]|[GFF][42]|[CDS][43]|[PEP][44]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Rhynchonema* sp.|Chromadorea |[GENOME][45]|[GFF][46]|[CDS][47]|[PEP][48]|
+|*Epsilonema* sp.|Chromadorea|[GENOME][45]|[GFF][46]|[CDS][47]|[PEP][48]|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|*Rhynchonema* sp.|Chromadorea |[GENOME][49]|[GFF][50]|[CDS][51]|[PEP][52]|
 |---
 
 <br><br>
@@ -52,5 +54,17 @@ Here, we provide all the assembly, annotation, CDSs, and proteome files as follo
 # Raw Reads Accession
 The Oxford nanopore sequcing and Illumina seqqencing reads of genome and Illumina seqqencing reads of transcriptome has been deposed in the NCBI under bioproject [PRJNA953805](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA953805). 
 
+[2]: {{ site.url }}{{site.baseurl}}/Data/Annotation_Gff/Mesodorylaimu_sp.gff
+[6]: {{ site.url }}{{site.baseurl}}/Data/Annotation_Gff/Enoplolaimus_lenunculus.gff
+[10]: {{ site.url }}{{site.baseurl}}/Data/Annotation_Gff/Trissonchulus_latispiculum.gff
+[14]: {{ site.url }}{{site.baseurl}}/Data/Annotation_Gff/Trileptium_ribeirensis.gff
+[18]: {{ site.url }}{{site.baseurl}}/Data/Annotation_Gff/Trissonchulus_sp.filter.gff
+[22]: {{ site.url }}{{site.baseurl}}/Data/Annotation_Gff/Theristus_sp.gff
+[26]: {{ site.url }}{{site.baseurl}}/Data/Annotation_Gff/Sabatieria_punctata.gff
+[30]: {{ site.url }}{{site.baseurl}}/Data/Annotation_Gff/Ptycholaimellus_sp.gff
+[34]: {{ site.url }}{{site.baseurl}}/Data/Annotation_Gff/Linhomoeus_sp.gff
+[38]: {{ site.url }}{{site.baseurl}}/Data/Annotation_Gff/Paralinhomoeus_sp.gff
+[42]: {{ site.url }}{{site.baseurl}}/Data/Annotation_Gff/Microlaimidae_sp.gff
+[46]: {{ site.url }}{{site.baseurl}}/Data/Annotation_Gff/Epsilonema_sp.gff
+[50]: {{ site.url }}{{site.baseurl}}/Data/Annotation_Gff/Rhynchonemsa_sp.gff
 
-[2]: {{ site.url }}{{site.baseurl}}/Data/Annotation_Gff/Enoplolaimus_lenunculus.gff
