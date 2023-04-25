@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /repositories/
+permalink: //
 title: Data
 nav: true
 nav_order: 3
