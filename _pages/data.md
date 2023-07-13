@@ -22,31 +22,31 @@ Here, we provide all the assembly, annotation, CDSs, and proteome files as follo
 |---
 |Species|Class|Assembly|Annotation|CDSs|Proteome|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Mesodorylaimus* sp.|Dorylaimida|[GENOME][1]|[GFF][2]|[CDS][3]|[PEP][4]|
+|*Mesodorylaimus* sp.|Dorylaimida|[GENOME](https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/datasets/PRJNA953805/mesodorylaimus_sp/PRJNA953805/mesodorylaimus_sp.QYR22.genomics.fa)|[GFF][2]|[CDS][3]|[PEP][4]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |*Enoplolaimus lenunculus*|Enoplida|[GENOME](https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/datasets/PRJNA953805/enoplolaimus_lenunculus/PRJNA953805/enoplolaimus_lenunculus.QYR23.genomics.fa)|[GFF][6]|[CDS][7]|[PEP][8]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Trissonchulus* sp.|Enoplida|[GENOME][9]|[GFF][10]|[CDS][11]|[PEP][12]|
+|*Trissonchulus* sp.|Enoplida|[GENOME](https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/datasets/PRJNA953805/trissonchulus_sp/PRJNA953805/trissonchulus_sp.QYR15.genomics.fa)|[GFF][10]|[CDS][11]|[PEP][12]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Trileptium ribeirensis*|Enoplida|[GENOME][13]|[GFF][14]|[CDS][15]|[PEP][16]|
+|*Trileptium ribeirensis*|Enoplida|[GENOME](https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/datasets/PRJNA953805/trileptium_ribeirensis/PRJNA953805/trileptium_ribeirensis.QYR10.genomics.fa)|[GFF][14]|[CDS][15]|[PEP][16]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Trissonchulus latispiculum*|Enoplida|[GENOME][17]|[GFF][18]|[CDS][19]|[PEP][20]|
+|*Trissonchulus latispiculum*|Enoplida|[GENOME](https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/datasets/PRJNA953805/trissonchulus_latispiculum/PRJNA953805/trissonchulus_latispiculum.QYR20.genomics.fa)|[GFF][18]|[CDS][19]|[PEP][20]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Theristus* sp.|Chromadorea|[GENOME][21]|[GFF][22]|[CDS][23]|[PEP][24]|
+|*Theristus* sp.|Chromadorea|[GENOME](https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/datasets/PRJNA953805/theristus_sp/PRJNA953805/theristus_sp.QYR14.genomics.fa)|[GFF][22]|[CDS][23]|[PEP][24]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Sabatieria punctata*|Chromadorea|[GENOME][25]|[GFF][26]|[CDS][27]|[PEP][28]|
+|*Sabatieria punctata*|Chromadorea|[GENOME](https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/datasets/PRJNA953805/sabatieria_punctata/PRJNA953805/sabatieria_punctata.QYR13.genomics.fa)|[GFF][26]|[CDS][27]|[PEP][28]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Ptycholaimellus* sp.|Chromadorea|[GENOME][29]|[GFF][30]|[CDS][31]|[PEP][32]|
+|*Ptycholaimellus* sp.|Chromadorea|[GENOME](https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/datasets/PRJNA953805/ptycholaimellus_sp/PRJNA953805/ptycholaimellus_sp.QYR16.genomics.fa)|[GFF][30]|[CDS][31]|[PEP][32]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Linhomoeus* sp.|Chromadorea|[GENOME][33]|[GFF][34]|[CDS][35]|[PEP][36]|
+|*Linhomoeus* sp.|Chromadorea|[GENOME](https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/datasets/PRJNA953805/linhomoeus_sp/PRJNA953805/linhomoeus_sp.QYR24.genomics.fa)|[GFF][34]|[CDS][35]|[PEP][36]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Paralinhomoeus* sp.|Chromadorea|[GENOME][37]|[GFF][38]|[CDS][39]|[PEP][40]|
+|*Paralinhomoeus* sp.|Chromadorea|[GENOME](https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/datasets/PRJNA953805/paralinhomoeus_sp/PRJNA953805/paralinhomoeus_sp.QYR19.genomics.fa)|[GFF][38]|[CDS][39]|[PEP][40]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Microlaimidae* sp.|Chromadorea|[GENOME][41]|[GFF][42]|[CDS][43]|[PEP][44]|
+|*Microlaimidae* sp.|Chromadorea|[GENOME](https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/datasets/PRJNA953805/microlaimidae_sp/PRJNA953805/microlaimidae_sp.QYR21.genomics.fa)|[GFF][42]|[CDS][43]|[PEP][44]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Epsilonema* sp.|Chromadorea|[GENOME][45]|[GFF][46]|[CDS][47]|[PEP][48]|
+|*Epsilonema* sp.|Chromadorea|[GENOME](https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/datasets/PRJNA953805/epsilonema_sp/PRJNA953805/epsilonema_sp.QYR11.genomics.fa)|[GFF][46]|[CDS][47]|[PEP][48]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Rhynchonema* sp.|Chromadorea |[GENOME][49]|[GFF][50]|[CDS][51]|[PEP][52]|
+|*Rhynchonema* sp.|Chromadorea |[GENOME](https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/datasets/PRJNA953805/rhynchonema_sp/PRJNA953805/rhynchonema_sp.QYR18.genomics.fa)|[GFF][50]|[CDS][51]|[PEP][52]|
 |---
 
 <br><br>
