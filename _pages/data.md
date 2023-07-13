@@ -54,7 +54,7 @@ Here, we provide all the assembly, annotation, CDSs, and proteome files as follo
 # Raw Reads Accession
 The Oxford nanopore sequcing and Illumina seqqencing reads of genome and Illumina seqqencing reads of transcriptome has been deposed in the NCBI under bioproject [PRJNA953805](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA953805). 
 
-[5]: (https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/datasets/PRJNA953805/enoplolaimus_lenunculus/PRJNA953805/enoplolaimus_lenunculus.QYR23.genomics.fa)
+[5]: (ftp://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/datasets/PRJNA953805/enoplolaimus_lenunculus/PRJNA953805/enoplolaimus_lenunculus.QYR23.genomics.fa)
 
 [2]: {{ site.url }}{{site.baseurl}}/Data/Annotation_Gff/mesodorylaimus_sp.QYR22.annotations.gff3.gz
 [6]: {{ site.url }}{{site.baseurl}}/Data/Annotation_Gff/enoplolaimus_lenunculus.QYR23.annotations.gff3.gz
