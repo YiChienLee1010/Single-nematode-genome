@@ -24,7 +24,7 @@ Here, we provide all the assembly, annotation, CDSs, and proteome files as follo
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |*Mesodorylaimus* sp.|Dorylaimida|[GENOME][1]|[GFF][2]|[CDS][3]|[PEP][4]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Enoplolaimus lenunculus*|Enoplida|[GENOME][5]|[GFF][6]|[CDS][7]|[PEP][8]|
+|*Enoplolaimus lenunculus*|Enoplida|[GENOME](https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/datasets/PRJNA953805/enoplolaimus_lenunculus/PRJNA953805/enoplolaimus_lenunculus.QYR23.genomics.fa)|[GFF][6]|[CDS][7]|[PEP][8]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |*Trissonchulus* sp.|Enoplida|[GENOME][9]|[GFF][10]|[CDS][11]|[PEP][12]|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -54,7 +54,6 @@ Here, we provide all the assembly, annotation, CDSs, and proteome files as follo
 # Raw Reads Accession
 The Oxford nanopore sequcing and Illumina seqqencing reads of genome and Illumina seqqencing reads of transcriptome has been deposed in the NCBI under bioproject [PRJNA953805](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA953805). 
 
-[5](https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/datasets/PRJNA953805/enoplolaimus_lenunculus/PRJNA953805/enoplolaimus_lenunculus.QYR23.genomics.fa)
 
 [2]: {{ site.url }}{{site.baseurl}}/Data/Annotation_Gff/mesodorylaimus_sp.QYR22.annotations.gff3.gz
 [6]: {{ site.url }}{{site.baseurl}}/Data/Annotation_Gff/enoplolaimus_lenunculus.QYR23.annotations.gff3.gz
