@@ -33,15 +33,15 @@ toc:
 * 2023 | Student Travel Award, N.A. Cobb Foundation
 
 **PUBLICATIONS**
-* 2024 | *Echiniscus gemmatus* sp. nov. (Heterotardigrada: Echiniscidae; the spinulosus morphogroup) from Macau, China
-  WI Leong, JK Yu, IJ Tsai, Ł. Kaczmarek, **YC Lee** and CP Lin
+* 2024 | *Echiniscus gemmatus* sp. nov. (Heterotardigrada: Echiniscidae; the spinulosus morphogroup) from Macau, China<br /> 
+  WI Leong, JK Yu, IJ Tsai, Ł. Kaczmarek, **YC Lee** and CP Lin<br /> 
   *Zootaxa, 0.11646/ZOOTAXA.5551.2.5*
-* 2023 | Single-worm long- read sequencing reveals genome diversity in freeliving nematodes
-  **YC Lee**, HM Ke, YC Liu, HH Lee, MC Wang, YC Tseng, T Kikuchi, IJ Tsai 
+* 2023 | Single-worm long- read sequencing reveals genome diversity in freeliving nematodes<br /> 
+  **YC Lee**, HM Ke, YC Liu, HH Lee, MC Wang, YC Tseng, T Kikuchi, IJ Tsai<br /> 
   *Nucleic Acids Research, 10.1093/nar/gkad647*
 * 2023 | The Aphelenchoides genomes reveal substantial horizontal gene transfers in the last common ancestor of free-living and major plant
-  parasitic nematodes
-  CK Lai, **YC Lee**, WA Liu, HH Lee, HM Ke, YC Liu, T Yoshiga, T Kikuchi, PJ Chen and IJ Tsai 
+  parasitic nematodes<br /> 
+  CK Lai, **YC Lee**, WA Liu, HH Lee, HM Ke, YC Liu, T Yoshiga, T Kikuchi, PJ Chen and IJ Tsai<br /> 
   *Molecular Ecology Resources 10.1111/1755-0998.13752*
 
  
