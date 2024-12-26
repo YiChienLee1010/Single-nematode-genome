@@ -6,7 +6,8 @@ nav: true
 nav_order: 1
 ---
 
-The preprint of the publications is now on bioRxiv: [Single worm long read sequencing reveals genome diversity in free-living nematodes](https://www.biorxiv.org/content/10.1101/2023.04.17.537128v1)
+[Single worm long read sequencing reveals genome diversity in free-living nematodes]
+(https://academic.oup.com/nar/article/51/15/8035/7234520)
 
 [Supplementary Figure][1]
 
