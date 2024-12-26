@@ -10,3 +10,6 @@ toc:
 ---
 
 # Curriculum Vitae
+
+# EDUCATION
+**PhD**
