@@ -50,7 +50,7 @@ toc:
   Evolutionary Biology of Caenorhabditis and other Nematodes conference, Austria
 * 2023 | Instructor, Helminth BioinfromaWcs-Asia<br /> 
   Wellcome connecting science, Khon Kean University, Thaliand
-* 2023 | Participants<br /> 
+* 2023 | Participants, Yong invesWgator PhD course<br /> 
   EMBO, Heldelberg
 
 **CONFERENCES PRESENTATION**
