@@ -34,7 +34,7 @@ toc:
 * 2023 | Student Travel Award, N.A. Cobb Foundation
 
 **PUBLICATIONS**
-* 2024 | [*Echiniscus gemmatus* sp. nov. (Heterotardigrada: Echiniscidae; the spinulosus morphogroup) from Macau, China](https://mapress.com/zt/article/view/zootaxa.5551.2.5)<br /> 
+* 2024 | [Echiniscus gemmatus sp. nov. (Heterotardigrada: Echiniscidae; the spinulosus morphogroup) from Macau, China](https://mapress.com/zt/article/view/zootaxa.5551.2.5)<br /> 
   WI Leong, JK Yu, IJ Tsai, Ł. Kaczmarek, **YC Lee** and CP Lin<br /> 
   *Zootaxa, 0.11646/ZOOTAXA.5551.2.5*
 * 2023 | [Single worm long read sequencing reveals genome diversity in free-living nematodes](https://academic.oup.com/nar/article/51/15/8035/7234520)<br /> 
@@ -63,7 +63,7 @@ toc:
   Topic: *De novo* genome assembly from single nematode using whole genome amplification
 
 **PEER REVIEW SERVICE**
-Reviewer for *Zoological Studies*, *Molecular Ecology Resources* and *Scientific Data*
+* Reviewer for *Zoological Studies*, *Molecular Ecology Resources* and *Scientific Data*
 
 
 
