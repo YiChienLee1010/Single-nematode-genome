@@ -28,7 +28,7 @@ toc:
   Topic: DeterminaJon of aquaJc microbial community with Nanopore sequencing<br /> 
   Advisor: Dr. Isheng Jason Tsai
 
-**AWARDS**
+**AWARDS**<br /> 
 * 2024 | Travel Award, EvoWorm
 * 2023 | Student Travel Award, N.A. Cobb Foundation
 
