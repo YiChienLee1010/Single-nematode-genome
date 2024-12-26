@@ -3,5 +3,5 @@ layout: page
 permalink: /data/
 title: Data
 nav: true
-nav_order: 6
+nav_order: 4
 ---
