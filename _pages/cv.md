@@ -37,7 +37,7 @@ toc:
 * 2024 | *Echiniscus gemmatus* sp. nov. (Heterotardigrada: Echiniscidae; the spinulosus morphogroup) from Macau, China<br /> 
   WI Leong, JK Yu, IJ Tsai, Ł. Kaczmarek, **YC Lee** and CP Lin<br /> 
   *Zootaxa, 0.11646/ZOOTAXA.5551.2.5*
-* 2023 | Single-worm long- read sequencing reveals genome diversity in freeliving nematodes<br /> 
+* 2023 | [Single worm long read sequencing reveals genome diversity in free-living nematodes](https://academic.oup.com/nar/article/51/15/8035/7234520)<br /> 
   **YC Lee**, HM Ke, YC Liu, HH Lee, MC Wang, YC Tseng, T Kikuchi, IJ Tsai<br /> 
   *Nucleic Acids Research, 10.1093/nar/gkad647*
 * 2023 | [The Aphelenchoides genomes reveal substantial horizontal gene transfers in the last common ancestor of free-living and major plant-parasitic nematodes](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13752)<br /> 
