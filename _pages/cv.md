@@ -11,7 +11,7 @@ toc:
 
 # Curriculum Vitae
 
-# EDUCATION
+**EDUCATION**
 * 2018-2023 | PhD, National Normal University and Academia Sinica, Taipei, Taiwan Biodiversity program, Taiwan International Graduate Program(TIGP)<br />
 Thesis: ComparaJve genomics of free-living nematodes<br />
 Advisor: Dr. Isheng Jason Tsai
