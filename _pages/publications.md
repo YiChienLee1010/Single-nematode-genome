@@ -11,17 +11,13 @@ nav_order: 1
 Cheng-Kuo Lai, **Yi-Chien Lee**, Huei-Mien Ke, Min R. Lu, Wei-An Liu, Hsin-Han Lee, Yu-Ching Liu, Toyoshi Yoshiga, Taisei Kikuchi, Peichen J. Chen, Isheng Jason Tsai<br />
 *Molecular Ecology Resources*
 
-[Single worm long read sequencing reveals genome diversity in free-living nematodes](https://academic.oup.com/nar/article/51/15/8035/7234520)
-
-**Yi-Chien Lee**, Huei-Mien Ke, Yu-Ching Liu, Hsin-Han Lee, Min-Chen Wang, Yung-Che Tseng, Taisei Kikuchi, Isheng Jason Tsai
-
+[Single worm long read sequencing reveals genome diversity in free-living nematodes](https://academic.oup.com/nar/article/51/15/8035/7234520)<br />
+**Yi-Chien Lee**, Huei-Mien Ke, Yu-Ching Liu, Hsin-Han Lee, Min-Chen Wang, Yung-Che Tseng, Taisei Kikuchi, Isheng Jason Tsai<br />
 *Nucleic Acids Research*
 
 # 2024
-[Echiniscus gemmatussp. nov. (Heterotardigrada: Echiniscidae; the spinulosus morphogroup) from Macau, China](https://mapress.com/zt/article/view/zootaxa.5551.2.5)
-
-Weng-I Leong, Jr-Kai Yu, Isheng Jason Tsai, Łukasz Kaczmarek, **Yi-Chien Lee**, Chung-Ping Lin
-
+[Echiniscus gemmatussp. nov. (Heterotardigrada: Echiniscidae; the spinulosus morphogroup) from Macau, China](https://mapress.com/zt/article/view/zootaxa.5551.2.5)<br />
+Weng-I Leong, Jr-Kai Yu, Isheng Jason Tsai, Łukasz Kaczmarek, **Yi-Chien Lee**, Chung-Ping Lin<br />
 *Zootaxa*
 
 [Supplementary Figure][1]
