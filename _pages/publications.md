@@ -16,7 +16,7 @@ Cheng-Kuo Lai, **Yi-Chien Lee**, Huei-Mien Ke, Min R. Lu, Wei-An Liu, Hsin-Han L
 *Nucleic Acids Research*
 
 # 2024
-[Echiniscus gemmatussp. nov. (Heterotardigrada: Echiniscidae; the spinulosus morphogroup) from Macau, China](https://mapress.com/zt/article/view/zootaxa.5551.2.5)<br />
+[*Echiniscus gemmatus* sp. nov. (Heterotardigrada: Echiniscidae; the spinulosus morphogroup) from Macau, China](https://mapress.com/zt/article/view/zootaxa.5551.2.5)<br />
 Weng-I Leong, Jr-Kai Yu, Isheng Jason Tsai, Łukasz Kaczmarek, **Yi-Chien Lee**, Chung-Ping Lin<br />
 *Zootaxa*
 
