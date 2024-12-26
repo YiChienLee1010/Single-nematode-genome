@@ -15,7 +15,7 @@ toc:
 * 2018-2023 | PhD, National Normal University and Academia Sinica, Taipei, Taiwan Biodiversity program, Taiwan International Graduate
   Program(TIGP)<br /> 
   Thesis: Comparative genomics of free-living nematodes<br /> 
-  Advisor: Dr. Isheng Jason Tsai<br /> 
+  Advisor: Dr. Isheng Jason Tsai
 * 2014-2018 | BSc, Department of Plant Pathology, National Chung Hsing University, Taiwan
 
 **RESEARCH EXPERIENCE**
