@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 # 2023
-[The *Aphelenchoides* genomes reveal substantial horizontal gene transfers in the last common ancestor of free-living and major plant-parasitic nematodes](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13752)<br />
+[The Aphelenchoides genomes reveal substantial horizontal gene transfers in the last common ancestor of free-living and major plant-parasitic nematodes](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13752)<br />
 Cheng-Kuo Lai, **Yi-Chien Lee**, Huei-Mien Ke, Min R. Lu, Wei-An Liu, Hsin-Han Lee, Yu-Ching Liu, Toyoshi Yoshiga, Taisei Kikuchi, Peichen J. Chen, Isheng Jason Tsai<br />
 *Molecular Ecology Resources*
 
@@ -16,7 +16,7 @@ Cheng-Kuo Lai, **Yi-Chien Lee**, Huei-Mien Ke, Min R. Lu, Wei-An Liu, Hsin-Han L
 *Nucleic Acids Research*
 
 # 2024
-[*Echiniscus gemmatus* sp. nov. (Heterotardigrada: Echiniscidae; the spinulosus morphogroup) from Macau, China](https://mapress.com/zt/article/view/zootaxa.5551.2.5)<br />
+[Echiniscus gemmatus sp. nov. (Heterotardigrada: Echiniscidae; the spinulosus morphogroup) from Macau, China](https://mapress.com/zt/article/view/zootaxa.5551.2.5)<br />
 Weng-I Leong, Jr-Kai Yu, Isheng Jason Tsai, Łukasz Kaczmarek, **Yi-Chien Lee**, Chung-Ping Lin<br />
 *Zootaxa*
 
