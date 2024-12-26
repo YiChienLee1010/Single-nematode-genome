@@ -54,13 +54,13 @@ toc:
   EMBO, Heldelberg
 
 **CONFERENCES PRESENTATION**
-* 2024 | Evolutionary Biology of Caenorhabditis and other Nematodes conference, Vienna, Austria
-  Topic: Single-worm long-read sequencing reveals genome diversity in free-living nematodes
+* 2024 | Evolutionary Biology of Caenorhabditis and other Nematodes conference, Vienna, Austria<br /> 
+  Topic: Single-worm long-read sequencing reveals genome diversity in free-living nematodes<br /> 
 * 2023 | Annual Society of Nematologists Conference, Ohio, US
-  Topic: Whole genome amplification enables single worm sequencing and reveals genome diversity in free-living nematodes
-* 2022 | InternaWonal Congress of Nematology, AnJbes Juan-Les-Pins, France
+  Topic: Whole genome amplification enables single worm sequencing and reveals genome diversity in free-living nematodes<br /> 
+* 2022 | InternaWonal Congress of Nematology, AnJbes Juan-Les-Pins, France<br /> 
   Topic: Comparative genomics of free-living nematodes
-* 2021 | Virtual Nematology Conference
+* 2021 | Virtual Nematology Conference<br /> 
   Topic: *De novo* genome assembly from single nematode using whole genome amplification
 
 **PEER REVIEW SERVICE**
