@@ -8,9 +8,7 @@ nav_order: 1
 
 # 2023
 [The Aphelenchoides genomes reveal substantial horizontal gene transfers in the last common ancestor of free-living and major plant-parasitic nematodes](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13752)
-
 Cheng-Kuo Lai, **Yi-Chien Lee**, Huei-Mien Ke, Min R. Lu, Wei-An Liu, Hsin-Han Lee, Yu-Ching Liu, Toyoshi Yoshiga, Taisei Kikuchi, Peichen J. Chen, Isheng Jason Tsai
-
 *Molecular Ecology Resources*
 
 [Single worm long read sequencing reveals genome diversity in free-living nematodes](https://academic.oup.com/nar/article/51/15/8035/7234520)
