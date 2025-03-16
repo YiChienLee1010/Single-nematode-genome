@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: YiChien Lee
 permalink: /about/
 nav: ture
 nav_order: 1
