@@ -8,7 +8,6 @@ nav_order: 1
 ---
 
 
-# YiChien Lee 
 
 <img src="../assets/img/IMG_8320.jpg" align="right" width="30%" high="30%"/> 
 
