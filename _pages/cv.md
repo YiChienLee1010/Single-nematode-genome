@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: Curriculum Vitae
+title: CV
 nav: ture
 nav_order: 2
 cv_pdf: example_pdf.pdf # you can also use external links here
@@ -9,7 +9,7 @@ toc:
   sidebar: left
 ---
 
-
+# Curriculum Vitae
 
 **EDUCATION**
 * 2018-2023 | PhD, National Normal University and Academia Sinica, Taipei, Taiwan Biodiversity program, Taiwan International Graduate Program(TIGP)<br />
