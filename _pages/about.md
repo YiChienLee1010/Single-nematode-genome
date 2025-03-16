@@ -1,13 +1,13 @@
 ---
 layout: page
-title: YiChien Lee
+title: About
 permalink: /about/
 nav: ture
 nav_order: 1
 
 ---
 
-
+# YiChien Lee
 
 <img src="../assets/img/IMG_8320.jpg" align="right" width="30%" high="30%"/> 
 
