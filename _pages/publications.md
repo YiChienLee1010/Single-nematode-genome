@@ -20,9 +20,6 @@ Cheng-Kuo Lai, **Yi-Chien Lee**, Huei-Mien Ke, Min R. Lu, Wei-An Liu, Hsin-Han L
 Weng-I Leong, Jr-Kai Yu, Isheng Jason Tsai, Łukasz Kaczmarek, **Yi-Chien Lee**, Chung-Ping Lin<br />
 *Zootaxa*
 
-[Supplementary Figure][1]
-
-[Supplementary Table][2]
-
-[1]:{{ site.url }}{{site.baseurl}}/supplementary/SuppFigure.docx
-[2]:{{ site.url }}{{site.baseurl}}/supplementary/SuppTables.xlsx
+[Detection of genetic sex using a qPCR-based method in the bigfin reef squid (Sepioteuthis lessoniana)](https://doi.org/10.1016/j.aqrep.2025.102644)<br />
+**Yi-Chien Lee**, Li-Lun Tang, Yu-Chen Yeh, Hau-Wen Li, Huei-Mien Ke, Cheng-Ju Yang, Chun-I Chiang, Chia-Hui Wang, Yung-Che Tseng, Ching-Fong Chang, Isheng Jason Tsai, Guan-Chung Wu<br />
+*Aquaculture Reports*
