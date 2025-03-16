@@ -22,4 +22,4 @@ In this study, we demonstrated the feasibility of generating genome assemblies f
 
 ![Nematode photo]({{ site.url }}{{site.baseurl}}/assets/img/Epsilonema.JPG|width="50%" height="50%")
 
-<img src="Single-nematode-genome/assets/img/Epsilonema.JPG"  width="50%" height="50%"/>
+<img src="{{ site.url }}{{site.baseurl}}/assets/img/Epsilonema.JPG"  width="50%" height="50%"/>
