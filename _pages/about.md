@@ -12,7 +12,7 @@ social: true  # includes social icons at the bottom of the page
 
 # YiChien Lee 
 
-  <img src="../assets/img/IMG_8320.jpg" align="left" /> 
+  <img src="../assets/img/IMG_8320.jpg"/> 
 
 I am a Postdoctoral Fellow at the Biodiversity Research Center, Academia Sinica, Taiwan. As a biologist interested in evolutionary processes, my research is on understanding the complex mechanisms of species adaptation and evolution. Through my research, I seek to understand better how organisms have evolved and how these processes contribute to biodiversity. By focusing on the evolution of traits such as adaptation or parasitic relationships, I hope to shed light on the broader patterns of evolution and the forces that shape the natural world.
  
