@@ -8,7 +8,7 @@ horizontal: false
 
 profile:
   align: right
-  image: Epsilonema.jpg
+  image: Epsilonema.JPG
   image_circular: false # crops the image to make it circular
   
 ---
