@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-permalink: /Home/
+permalink: /about/
 nav: ture
 nav_order: 1
 
