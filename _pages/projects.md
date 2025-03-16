@@ -21,3 +21,4 @@ In this study, we demonstrated the feasibility of generating genome assemblies f
 {: .text-justify}
 
 ![Nematode photo]({{ site.url }}{{site.baseurl}}/assets/img/Epsilonema.JPG)
+<img src="Epsilonema.JPG"  style="width:50%; height:50%;">
