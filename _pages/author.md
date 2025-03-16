@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /author/
+permalink: 
 title: Authors
 nav: true
 nav_order: 5
