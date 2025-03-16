@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: YiChien Lee
 permalink: /
 
 news: false  # includes a list of news items
