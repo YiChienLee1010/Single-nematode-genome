@@ -1,7 +1,10 @@
 ---
 layout: page
 title: about
-permalink: /
+permalink: /Home/
+nav: ture
+nav_order: 1
+
 ---
 
 
