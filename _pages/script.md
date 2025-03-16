@@ -3,7 +3,7 @@ layout: page
 permalink: /script/
 title: Script
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 # Single Nematode Genome Project
