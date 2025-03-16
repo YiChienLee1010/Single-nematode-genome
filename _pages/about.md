@@ -9,11 +9,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-# Single Nematode Genome Project
-
-Obtaining sufficient genetic material from a limited biological source is currently the primary operational bottleneck in studies investigating biodiversity and genome evolution. In this study, we employed multiple displacement amplification (MDA) and Smartseq2 to amplify nanograms of genomic DNA and mRNA, respectively from individual Caenorhabditis elegans. Although reduced genome coverage was observed in repetitive regions, we produced assemblies covering 98% of the reference genome using long-read sequences generated with Oxford Nanopore Technologies (ONT). Annotation with the sequenced transcriptome coupled with the available assembly revealed that gene predictions were more accurate, complete and contained far fewer false positives than de novo transcriptome assembly approaches. We sampled and sequenced the genomes and transcriptomes of 13 nematodes from Dorylaimia, Enoplia, and early-branching species in Chromadoria. These free-living species had larger genome sizes, ranging from 136.6-738.8 Mb, compared to those of the parasitic lifestyle. Nine mitogenomes were fully assembled and displaying a complete lack of synteny to other species. Phylogenomic analyses based on the new annotations revealed strong support for Enoplia as sister to the rest of Nematoda. Our result demonstrates the robustness of MDA in combination with ONT, paving the way for the study of genome diversity in the phylum Nematoda and beyond. 
-{: .text-justify}
-
-
-# Keywords
-single nematode, WGA, long reads sequencing,  *de novo* genome assembly
+I am a Postdoctoral Fellow at the Biodiversity Research Center, Academia Sinica, Taiwan. As a biologist interested in evolutionary processes, my research is on understanding the complex mechanisms of species adaptation and evolution. Through my research, I seek to understand better how organisms have evolved and how these processes contribute to biodiversity. By focusing on the evolution of traits such as adaptation or parasitic relationships, I hope to shed light on the broader patterns of evolution and the forces that shape the natural world.
+ 
+My expertise lies in utilizing cutting-edge sequencing technologies and bioinformatics approaches to assemble, annotate, and analyze the genomes and genes of various organisms. By combining these tools, I aim to explore the genetic change that drives evolution. A key component of my work is employing a comparative genomics strategy, which allows me to examine the similarities and differences across species, ultimately providing insights into their evolutionary history.
