@@ -3,7 +3,7 @@ layout: page
 permalink: /data/
 title: Data
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 The genomes were sequenced by Oxford nanopore and Illumina. Flye assembler (option: --meta) was usedto assemble the raw ONT reads which were then polished by four iterations of Racon, followed by Medaka. The consensus sequences were further corrected with Illumina reads using NextPolish and haplotigs were removed using Purge Dups. Contigs with non-nematode origins were excluded. 
