@@ -12,20 +12,20 @@ toc:
 # Curriculum Vitae
 
 **EDUCATION**
-* 2018-2023 | PhD, National Normal University and Academia Sinica, Taipei, Taiwan Biodiversity program, Taiwan International Graduate Program(TIGP)<br />
+* 2018-2023 | **PhD**, National Normal University and Academia Sinica, Taipei, Taiwan Biodiversity program, Taiwan International Graduate Program(TIGP)<br />
   Thesis: Comparative genomics of free-living nematodes<br />
   Advisor: Dr. Isheng Jason Tsai
-* 2014-2018 | BSc, Department of Plant Pathology, National Chung Hsing University, Taiwan
+* 2014-2018 | **BSc**, Department of Plant Pathology, National Chung Hsing University, Taiwan
 
 **RESEARCH EXPERIENCE**
-* 2023-present | Post-doctoral, Biodiversity Research Center, Academia Sinica, Taiwan<br /> 
+* 2023-present | **Postdoctoral fellow**, Biodiversity Research Center, Academia Sinica, Taiwan<br /> 
   Advisor: Dr. Isheng Jason Tsai<br /> 
-* 2017-2018 | Intern, Nematology Lab (II), National Chung Hsing University, Taiwan<br /> 
+* 2017-2018 | **Intern**, Nematology Lab (II), National Chung Hsing University, Taiwan<br /> 
   Advisor: Dr. Peichen Janet Chen<br /> 
-  Topic : Glycoside hydrolase families (GH) in Aphelenchoides besseyi isolate from Vallisneria spiralis's and their correlaJon with the host
+  Topic : Glycoside hydrolase families (GH) in Aphelenchoides besseyi isolate from *Vallisneria spiralis*'s and their correlation with the     host
   range
-* 2017 | Summer Intern, Biodiversity Research Center, Academia Sinica, Taiwan<br /> 
-  Topic: DeterminaJon of aquaJc microbial community with Nanopore sequencing<br /> 
+* 2017 | **Summer Intern**, Biodiversity Research Center, Academia Sinica, Taiwan<br /> 
+  Topic: Determination of aquatic microbial community with Nanopore sequencing<br /> 
   Advisor: Dr. Isheng Jason Tsai
 
 **AWARDS**
@@ -44,11 +44,11 @@ toc:
   *Molecular Ecology Resources 10.1111/1755-0998.13752*
 
 **RESEARCH WORKSHOPS**
-* 2024 | Speaker, From zero to hero: Getting to 959 nematode genomes<br />
+* 2024 | **Speaker**, From zero to hero: Getting to 959 nematode genomes<br />
   Evolutionary Biology of Caenorhabditis and other Nematodes conference, Austria
-* 2023 | Instructor, Helminth BioinfromaWcs-Asia<br /> 
+* 2023 | **Instructor**, Helminth BioinfromaWcs-Asia<br /> 
   Wellcome connecting science, Khon Kean University, Thaliand
-* 2023 | Participants, Yong invesWgator PhD course<br /> 
+* 2023 | **Participants**, Yong invesWgator PhD course<br /> 
   EMBO, Heldelberg
 
 **CONFERENCES PRESENTATION**
@@ -56,7 +56,7 @@ toc:
   Topic: Single-worm long-read sequencing reveals genome diversity in free-living nematodes<br /> 
 * 2023 | Annual Society of Nematologists Conference, Ohio, US
   Topic: Whole genome amplification enables single worm sequencing and reveals genome diversity in free-living nematodes<br /> 
-* 2022 | InternaWonal Congress of Nematology, AnJbes Juan-Les-Pins, France<br /> 
+* 2022 | International Congress of Nematology, AnJbes Juan-Les-Pins, France<br /> 
   Topic: Comparative genomics of free-living nematodes
 * 2021 | Virtual Nematology Conference<br /> 
   Topic: *De novo* genome assembly from single nematode using whole genome amplification
